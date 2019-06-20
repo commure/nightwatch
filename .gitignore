@@ -19,3 +19,4 @@ output
 /coverage/
 /.nyc_output/
 screenshot.png
+.tern-port
